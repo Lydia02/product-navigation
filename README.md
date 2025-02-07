@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # product_navigation_app
 
 A new Flutter project.
@@ -15,6 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
 # product-navigation
->>>>>>> 0a74a97828876eacad95dff2088031505615aa72
